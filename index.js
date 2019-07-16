@@ -32,5 +32,5 @@ function preserveDecimal(n) {
 
 function makeInt(n) {
   parseInt("10")
-  return 10
+  return n
 }
