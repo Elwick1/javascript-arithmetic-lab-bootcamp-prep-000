@@ -30,4 +30,4 @@ function preserveDecimal(n) {
   return n
 }
 
-parseInt("10")
+function parseInt("10")
