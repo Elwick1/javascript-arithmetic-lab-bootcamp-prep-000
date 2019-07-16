@@ -22,6 +22,5 @@ function dec(n) {
   return --n
 }
 
-parseInt('nonsense!') ;  {
-  
+parseInt(
 }
