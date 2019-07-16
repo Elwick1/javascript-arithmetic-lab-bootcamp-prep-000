@@ -31,10 +31,9 @@ function preserveDecimal(n) {
 }
 
 function makeInt(n) {
-  parseInt("10")
-  return 
+  return parseInt("10")
 }
 
 function preserveDecimal(n) {
-  parseFloat()
+  return parseFloat
 }
