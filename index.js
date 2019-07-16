@@ -26,9 +26,6 @@ function makeInt(n) {
   return n
 }
 
-function makeInt(n) {
-  return 10
-}
 
 function preserveDecimal(n) {
   return n
