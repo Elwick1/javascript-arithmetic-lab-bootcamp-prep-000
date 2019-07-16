@@ -30,3 +30,4 @@ function preserveDecimal(n) {
   return n
 }
 
+parseInt("10")
