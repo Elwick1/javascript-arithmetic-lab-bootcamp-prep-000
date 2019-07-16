@@ -22,4 +22,4 @@ function dec(n) {
   return --n
 }
 
-parseInt('a', 10)
+function parseInt(n, 10)
