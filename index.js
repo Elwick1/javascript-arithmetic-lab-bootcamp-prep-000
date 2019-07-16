@@ -30,7 +30,4 @@ function preserveDecimal(n) {
   return n
 }
 
-function makeInt(n) {
-  return parseInt("10")
-}
 
