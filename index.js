@@ -26,8 +26,7 @@ function makeInt(n) {
   return n
 }
 
-parseInt("10") + "<br>";
-
 function preserveDecimal(n) {
   return n
 }
+
